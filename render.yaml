@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: your-service-name
+    name: botDiscord1Git-1
     env: python
     plan: standard
     pythonVersion: 3.13
